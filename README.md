@@ -2,8 +2,7 @@
 
 - Clone this repository. 
 - Install Home Assistant ESPHome and Visual Studio Code add-ons if you haven't installed it yet.
-- Using Visual Studio Code add-ons, navigate to the `config` folder. Copy the content the folder `custom-components` to the `config`.
-- Copy the `motionsensor.yaml` to the `config`
+- Using Visual Studio Code add-ons, navigate to the `config/esphome` folder. Copy folder `custom-components` and `motionsensor.yaml` on this folder.
 - Open ESPHome WebUI. You should see the `motionsensor` OFFLINE. If not try restarting HomeAssistant. 
 
 ![](images/3dot.png)
